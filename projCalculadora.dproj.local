@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 18:02:09.000.287,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 01:40:33.000.716,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/08 18:13:41.000.589,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/08 18:13:54.000.329,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\CalculadoraSimples\Calculadora.pas</Transaction>
+    <Transaction>2022/01/08 18:14:08.000.590,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\CalculadoraSimples\projCalculadora.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
